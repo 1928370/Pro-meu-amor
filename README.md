@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <initial-scale=1.0">
-    <title>detail tag</title>
+    <title>Eu te amo</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
     <title>Evellyn Santos</title>
